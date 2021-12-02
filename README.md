@@ -1,5 +1,4 @@
 # yutangclan
-# BT-Ansible
 Ansible and network automation playbooks and scripts
 - git clone https://github.com/johnyu10/yutangclan.git 
 - cd yutangclan
